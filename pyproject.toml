@@ -12,7 +12,7 @@ authors = [
   { name = "Anatoliy Tosun", email = "example@example.com" }
 ]
 dependencies = [
-  "PlexAPI>=4.15.0",
+  "PlexAPI>=4.17.2",
   "mutagen>=1.47.0",
   "requests>=2.32.3",
   "PyYAML>=6.0.2",
